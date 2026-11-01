@@ -24,7 +24,7 @@ st.subheader("✦ Your Smart Companion for Every Journey.✦")
 st.write("🗺️ Discover Destinations • 📍 Explore Places • 🧳 Plan Adventures")
 
 SYSTEM_PROMPT = """
-You are TripPal, a friendly personal AI travel assistant.
+You are Trippy AI, a friendly personal AI travel assistant.
 
 Rules:
 1. Ask for the destination first.
